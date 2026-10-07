@@ -1,0 +1,9 @@
+defense_type,parameter,reid_accuracy,privacy_gain_pct
+None (Baseline),None,0.7805555555555556,0.0
+Laplace DP,epsilon=0.1,0.6194444444444445,20.640569395017792
+Laplace DP,epsilon=0.5,0.8666666666666667,0.0
+Laplace DP,epsilon=1.0,0.8583333333333333,0.0
+Laplace DP,epsilon=5.0,0.8666666666666667,0.0
+Frequency Throttling,fs=10.0Hz,0.6416666666666667,17.793594306049815
+Frequency Throttling,fs=20.0Hz,0.7166666666666667,8.185053380782918
+Frequency Throttling,fs=50.0Hz,0.7194444444444444,7.829181494661923

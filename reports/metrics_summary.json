@@ -1,0 +1,10 @@
+{
+  "top1_accuracy": 0.7805555555555556,
+  "top3_accuracy": 0.9333333333333333,
+  "macro_f1": 0.7417753534162203,
+  "macro_auc": 0.9645130621693122,
+  "sample_count": 360,
+  "target_count": 15,
+  "equal_error_rate": 0.04593253968253968,
+  "random_baseline_top1": 0.0667
+}
